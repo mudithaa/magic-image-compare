@@ -1,0 +1,13 @@
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\MagicImageCompare.exe.config
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\MagicImageCompare.exe
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\MagicImageCompare.pdb
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\muditha.git\MagicImageCompare\MagicImageCompare\obj\Debug\MagicImageCompare.csprojAssemblyReference.cache
+C:\muditha.git\MagicImageCompare\MagicImageCompare\obj\Debug\MagicImageCompare.csproj.CoreCompileInputs.cache
+C:\muditha.git\MagicImageCompare\MagicImageCompare\obj\Debug\MagicImageCompare.csproj.CopyComplete
+C:\muditha.git\MagicImageCompare\MagicImageCompare\obj\Debug\MagicImageCompare.exe
+C:\muditha.git\MagicImageCompare\MagicImageCompare\obj\Debug\MagicImageCompare.pdb
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\Images\expected-image.png
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\Images\generated-image.png
+C:\muditha.git\MagicImageCompare\MagicImageCompare\bin\Debug\Invalid-Images\invalid-image.png
